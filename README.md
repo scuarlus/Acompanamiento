@@ -36,25 +36,25 @@ patentes, origen del producto, tipo de formulación y nivel de competencia entre
 - La mayoría de principios activos comunes tienen frecuencias relativamente cercanas, lo que sugiere un mercado equilibrado.
 
 ### 2. Top 10 fabricantes por precio promedio más bajo
-![Top fabricantes precio bajo](images/top_fabricantes_bajo.png)
+![Top fabricantes precio bajo](top_fabricantes_bajo.png)
 - **Biosano**, **Medac** y **Sanderson** ofrecen precios muy bajos, posiblemente por producción genérica o políticas agresivas de precio.
 - Existe un aumento progresivo en el precio promedio por fabricante hasta **Organon**, que es el más caro dentro del top de los más bajos.
 - La diferencia de precios indica oportunidades de negociación para optimizar costos.
 
 ### 3. Top 10 principios activos por mayor precio promedio
-![Top principios caros](images/top_principios_caros.png)
+![Top principios caros](top_principios_caros.png)
 - **Iobenguane (I131)** sobresale con un precio promedio por tableta superior a 8 millones, reflejando un medicamento de alta especialidad.
 - Predominio de medicamentos **biotecnológicos y de especialidad** como Trastuzumab y Tenecteplasa.
 - Existe una gran brecha entre los tres primeros y el resto, concentrando el mayor peso económico en pocos fármacos.
 
 ### 4. Relación entre número de factor y precio por tableta
-![Relación número de factor y precio](images/relacion_factor_precio.png)
+![Relación número de factor y precio](relacion_factor_precio.png)
 - La mayoría de los medicamentos costosos se concentran en el **número de factor 2**, con alta variabilidad.
 - El número de factor 3 presenta algunos precios elevados, pero no alcanza los máximos del factor 2.
 - Se identifican *outliers* claros que representan casos muy específicos de alto costo.
 
 ### 5. Distribución de precios por tableta – Principios activos más comunes (Top 10)
-![Distribución precios principios comunes](images/distribucion_precios_comunes.png)
+![Distribución precios principios comunes](distribucion_precios_comunes.png)
 - **Desloratadina** presenta la mayor dispersión de precios y *outliers* muy elevados, posiblemente por formulaciones de marca o presentaciones especiales.
 - **Ibuprofeno** y **Levotiroxina Sódica** muestran rangos más estrechos, indicando un mercado más estable.
 - Algunos principios activos como **Acetaminofén** y **Sildenafil** tienen valores atípicos que impactan el promedio.
