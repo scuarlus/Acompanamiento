@@ -36,7 +36,7 @@ patentes, origen del producto, tipo de formulación y nivel de competencia entre
 - La mayoría de principios activos comunes tienen frecuencias relativamente cercanas, lo que sugiere un mercado equilibrado.
 
 ### 2. Top 10 fabricantes por precio promedio más bajo
-![Top fabricantes precio bajo](top_fabricantes_bajo.png)
+![Top fabricantes precio bajo](op_fabricantes_bajo.png)
 - **Biosano**, **Medac** y **Sanderson** ofrecen precios muy bajos, posiblemente por producción genérica o políticas agresivas de precio.
 - Existe un aumento progresivo en el precio promedio por fabricante hasta **Organon**, que es el más caro dentro del top de los más bajos.
 - La diferencia de precios indica oportunidades de negociación para optimizar costos.
